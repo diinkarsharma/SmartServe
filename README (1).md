@@ -1,6 +1,6 @@
 #  SmartServe
 
-**SmartServe** is an AI-enhanced web platform built during the Nagarro Hackathon 2025. It combines the power of **Next.js**, **React**, and **Genkit AI** to deliver intelligent, responsive, and user-friendly solutions.
+**SmartServe** is an AI-enhanced web platform . It combines the power of **Next.js**, **React**, and **Genkit AI** to deliver intelligent, responsive, and user-friendly solutions.
 
 ---
 
@@ -107,17 +107,4 @@ The app will be available at [http://localhost:3000](http://localhost:3000)
 | `npm run typecheck`| Run TypeScript checks          |
 
 ---
-
-##  Team
-
-- **Aryan Sapra , Dinkar Sharma** – Frontend, UI/UX
-- **Divyam Chhabra** – Backend, AI Workflows
-- **Dinkar Sharma** – Docker, Deployment
-- **Dinkar Sharma , Aryan Sapra , Divyam Chhabra** - Ppt and Demo Video
-
----
-
-##  Acknowledgements
-
-Special thanks to **Nagarro** for organizing this hackathon and giving us the opportunity to innovate and showcase our skills.
 
