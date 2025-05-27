@@ -1,0 +1,8 @@
+smartserve-app/node_modules
+smartserve-app/.next
+
+
+smartserve-app/.git
+smartserve-app/.DS_Store
+*.log
+.vscode
